@@ -1,0 +1,40 @@
+[
+    {
+        "id":1,
+        "destinationTitle":"Place",
+        "info":"Nice place to visit. You will enjoy your holidays here. Best location, scenery and many more.",
+        "price":199,
+        "moreInfo":"This place is famous for beautiful places. You will find this place with full of adventures. This trip will remain memorable to you whole life.",
+        "image":"images/destination-image.jpg"
+    },
+    {
+        "id":2,
+        "destinationTitle":"Place",
+        "info":"Nice place to visit. You will enjoy your holidays here. Best location, scenery and many more.",
+        "price":199,
+        "moreInfo":"This place is famous for beautiful places. You will find this place with full of adventures. This trip will remain memorable to you whole life.",
+        "image":"images/destination-image.jpg"
+    },
+    {
+        "id":3,
+        "destinationTitle":"Place",
+        "info":"Nice place to visit. You will enjoy your holidays here. Best location, scenery and many more.",
+        "price":199,"moreInfo":"This place is famous for beautiful places. You will find this place with full of adventures. This trip will remain memorable to you whole life.",
+        "image":"images/destination-image.jpg"
+    },
+    {
+        "id":4,
+        "destinationTitle":"Place",
+        "info":"Nice place to visit. You will enjoy your holidays here. Best location, scenery and many more.",
+        "price":199,
+        "moreInfo":"This place is famous for beautiful places. You will find this place with full of adventures. This trip will remain memorable to you whole life.",
+        "image":"images/destination-image.jpg"
+    },
+    {
+        "id":5,
+        "destinationTitle":"Place",
+        "info":"Nice place to visit. You will enjoy your holidays here. Best location, scenery and many more.",
+        "price":199,
+        "moreInfo":"This place is famous for beautiful places. You will find this place with full of adventures. This trip will remain memorable to you whole life.",
+        "image":"images/destination-image.jpg"}
+]
